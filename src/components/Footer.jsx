@@ -97,7 +97,7 @@ const Footer = () => {
               Connect
             </h4>
             <div style={{ display: "flex", flexDirection: "column", gap: "var(--space-2)", fontSize: "var(--fs-small)" }}>
-              <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" style={{ display: "flex", alignItems: "center", gap: "6px" }}>
+              <a href="https://linkedin.com/in/anshul-eskey-ba0821292" target="_blank" rel="noopener noreferrer" style={{ display: "flex", alignItems: "center", gap: "6px" }}>
                 <Linkedin size={12} /> LinkedIn
               </a>
               <a href="mailto:anshuleskey999@gmail.com" style={{ display: "flex", alignItems: "center", gap: "6px" }}>

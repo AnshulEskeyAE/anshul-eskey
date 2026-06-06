@@ -52,7 +52,7 @@ const Contact = () => {
             </div>
           </a>
 
-          <a href="https://linkedin.com/in/anshul-eskey" target="_blank" rel="noopener noreferrer" className="border-grid" style={{ padding: "var(--space-5)", display: "flex", alignItems: "center", gap: "12px", transition: "all 0.3s ease" }}>
+          <a href="https://linkedin.com/in/anshul-eskey-ba0821292" target="_blank" rel="noopener noreferrer" className="border-grid" style={{ padding: "var(--space-5)", display: "flex", alignItems: "center", gap: "12px", transition: "all 0.3s ease" }}>
             <div style={{ color: "var(--terminal-blue)" }}><Linkedin size={18} /></div>
             <div>
               <div style={{ fontFamily: "var(--font-mono)", fontSize: "10px", color: "var(--text-muted)" }}>CONNECT</div>

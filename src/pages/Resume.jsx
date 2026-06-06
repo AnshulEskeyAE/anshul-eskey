@@ -307,7 +307,7 @@ const Resume = () => {
                 </div>
                 <div style={{ textAlign: "right" }} className="text-left-mobile">
                   <a
-                    href="https://linkedin.com/in/anshul-eskey"
+                    href="https://linkedin.com/in/anshul-eskey-ba0821292"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="mono-btn"
@@ -350,7 +350,7 @@ const Resume = () => {
                   <span>•</span>
                   <span>anshuleskey999@gmail.com</span>
                   <span>•</span>
-                  <span>linkedin.com/in/anshul-eskey</span>
+                  <span>linkedin.com/in/anshul-eskey-ba0821292</span>
                 </div>
               </div>
 

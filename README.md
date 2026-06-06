@@ -128,7 +128,7 @@ To run this project on your local machine:
 
 ## Contact
 
-* **LinkedIn:** [linkedin.com/in/anshul-eskey](https://linkedin.com/in/anshul-eskey)
+* **LinkedIn:** [linkedin.com/in/anshul-eskey-ba0821292](https://linkedin.com/in/anshul-eskey-ba0821292)
 * **Email:** [anshuleskey999@gmail.com](mailto:anshuleskey999@gmail.com)
 * **Website:** [anshul-eskey.vercel.app](https://anshul-eskey.vercel.app)
 

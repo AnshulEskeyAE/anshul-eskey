@@ -245,7 +245,7 @@ To maintain consistent tone and styling integrations, all copy updates should al
 
 ### Section 8.2: Contact Methods
 - **Email:** `anshuleskey999@gmail.com`
-- **LinkedIn:** `linkedin.com/in/anshul-eskey`
+- **LinkedIn:** `linkedin.com/in/anshul-eskey-ba0821292`
 
 ### Section 8.3: Form Fields
 - Fields: `Name`, `Email`, `Organization`, `Message`
