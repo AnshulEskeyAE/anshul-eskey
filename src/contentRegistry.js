@@ -5,6 +5,7 @@ import * as telemedicineRetention from "./content/projects/telemedicine-retentio
 import * as zomatoCancellation from "./content/projects/zomato-cancellation";
 import * as learningExecutionSystem from "./content/projects/learning-execution-system";
 import * as structorAiPlatform from "./content/projects/structor-ai-platform";
+import * as urbanCompanyDiagnosis from "./content/projects/urban-company-diagnosis";
 
 import * as whyMostRetentionFails from "./content/essays/why-most-retention-fails";
 import * as intelLoops from "./content/essays/intel-loops";
@@ -22,6 +23,7 @@ const rawProjects = [
   telemedicineRetention,
   zomatoCancellation,
   learningExecutionSystem,
+  urbanCompanyDiagnosis,
   structorAiPlatform
 ];
 
